@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343618277911",
+    "project_id": "graduateshopapp",
+    "storage_bucket": "graduateshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343618277911:android:4fca16e49581839c948252",
+        "android_client_info": {
+          "package_name": "com.example.graduation_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343618277911-pik4t4h2gm7bkfmqb07vnp57gc2r2nu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtW7e-CJofHNR3XH4-h71YOEBoR1_fwHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343618277911-pik4t4h2gm7bkfmqb07vnp57gc2r2nu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
